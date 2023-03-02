@@ -1,9 +1,4 @@
-//
-//  LiveLocation.swift
-//  MAPS
-//
-//  Created by Sankalp Pandey on 04/09/21.
-//
+
 
 import Foundation
 import CoreLocation
