@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  MAPS
-//
-//  Created by Sankalp Pandey on 01/09/21.
-//
+
 
 import SwiftUI
 import CoreLocation
